@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+PyPDF2
+faiss-cpu
+tqdm
+ollama
+sentence-transformers
+openai
+langchain
+chromadb
+#sentence-transformers==2.2.2
+streamlit
+PyPDF2
+python-dotenv
+openai
